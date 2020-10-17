@@ -1,5 +1,5 @@
 # Sparse and Continuous Attention Mechanisms - experiments on VQA with continuous attention
-PyTorch implementation of the Deep Modular Co-Attention Networks (MCAN) with continuous attention. Follow this procedure to replicate our results. Note: we added the files `basis_functions.py`, `continuous_softmax.py` and `continuous_sparsemax.py` and changed the `net.py` to work with continuous attention.
+PyTorch implementation of the Deep Modular Co-Attention Networks (MCAN) with continuous attention. Follow this procedure to replicate the results reported in our paper [Sparse and Continuous Attention Mechanisms](https://arxiv.org/abs/2006.07214). Note: we added the files `basis_functions.py`, `continuous_softmax.py` and `continuous_sparsemax.py` and changed the `net.py` to work with continuous attention.
 
 ## Requirements
 
